@@ -1,3 +1,3 @@
 # datamine
 
-A place to host public datasets and my analyses of different datasets.
+A place to host public datasets. And my analysis on some of them.
