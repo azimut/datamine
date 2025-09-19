@@ -5,10 +5,13 @@ Plots over weather data.
 ## Plots
 
 <p float="left" align="middle">
-    <a href="media/freqs_all.png">   <img src="media/thumbs/freqs_all.jpg"   width="200" /></a>
-    <a href="media/daily.png">       <img src="media/thumbs/daily.jpg"       width="200" /></a>
-    <a href="media/daily_all.png">   <img src="media/thumbs/daily_all.jpg"   width="200" /></a>
-    <a href="media/compare_all.png"> <img src="media/thumbs/compare_all.jpg" width="200" /></a>
+    <a href="media/freqs_all.png">   <img src="media/thumbs/freqs_all.jpg"   width="400" /></a>
+    <a href="media/daily.png">       <img src="media/thumbs/daily.jpg"       width="400" /></a>
+</p>
+
+<p float="left" align="middle">
+    <a href="media/daily_all.png">   <img src="media/thumbs/daily_all.jpg"   width="400" /></a>
+    <a href="media/compare_all.png"> <img src="media/thumbs/compare_all.jpg" width="400" /></a>
 </p>
 
 ## Sources
