@@ -14,4 +14,4 @@ media/%.png: %.gp
 
 media/thumbs/%.jpg: media/%.png
 	@mkdir -p $(@D)
-	mogrify -path $(@D) -format jpg -resize 150x $<
+	mogrify -path $(@D) -format jpg -resize 600x $<
